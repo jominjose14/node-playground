@@ -1,0 +1,26 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "description": "NodeJS playground",
+  "homepage": "https://github.com/jominjose14/node-playground#readme",
+  "bugs": {
+    "url": "https://github.com/jominjose14/node-playground/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jominjose14/node-playground.git"
+  },
+  "license": "ISC",
+  "author": "jominjose14",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
